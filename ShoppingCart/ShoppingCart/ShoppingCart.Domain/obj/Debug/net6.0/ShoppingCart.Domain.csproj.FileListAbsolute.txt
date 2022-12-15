@@ -1,0 +1,12 @@
+D:\An 4\SEM 1\PSSC-Proiectarea sistemelor software complexe\PROIECT\ShoppingCart\ShoppingCart\ShoppingCart.Domain\obj\Debug\net6.0\ShoppingCart.Domain.csproj.AssemblyReference.cache
+D:\An 4\SEM 1\PSSC-Proiectarea sistemelor software complexe\PROIECT\ShoppingCart\ShoppingCart\ShoppingCart.Domain\obj\Debug\net6.0\ShoppingCart.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\An 4\SEM 1\PSSC-Proiectarea sistemelor software complexe\PROIECT\ShoppingCart\ShoppingCart\ShoppingCart.Domain\obj\Debug\net6.0\ShoppingCart.Domain.AssemblyInfoInputs.cache
+D:\An 4\SEM 1\PSSC-Proiectarea sistemelor software complexe\PROIECT\ShoppingCart\ShoppingCart\ShoppingCart.Domain\obj\Debug\net6.0\ShoppingCart.Domain.AssemblyInfo.cs
+D:\An 4\SEM 1\PSSC-Proiectarea sistemelor software complexe\PROIECT\ShoppingCart\ShoppingCart\ShoppingCart.Domain\obj\Debug\net6.0\ShoppingCart.Domain.csproj.CoreCompileInputs.cache
+D:\An 4\SEM 1\PSSC-Proiectarea sistemelor software complexe\PROIECT\ShoppingCart\ShoppingCart\ShoppingCart.Domain\bin\Debug\net6.0\ShoppingCart.Domain.deps.json
+D:\An 4\SEM 1\PSSC-Proiectarea sistemelor software complexe\PROIECT\ShoppingCart\ShoppingCart\ShoppingCart.Domain\bin\Debug\net6.0\ShoppingCart.Domain.dll
+D:\An 4\SEM 1\PSSC-Proiectarea sistemelor software complexe\PROIECT\ShoppingCart\ShoppingCart\ShoppingCart.Domain\bin\Debug\net6.0\ShoppingCart.Domain.pdb
+D:\An 4\SEM 1\PSSC-Proiectarea sistemelor software complexe\PROIECT\ShoppingCart\ShoppingCart\ShoppingCart.Domain\obj\Debug\net6.0\ShoppingCart.Domain.dll
+D:\An 4\SEM 1\PSSC-Proiectarea sistemelor software complexe\PROIECT\ShoppingCart\ShoppingCart\ShoppingCart.Domain\obj\Debug\net6.0\refint\ShoppingCart.Domain.dll
+D:\An 4\SEM 1\PSSC-Proiectarea sistemelor software complexe\PROIECT\ShoppingCart\ShoppingCart\ShoppingCart.Domain\obj\Debug\net6.0\ShoppingCart.Domain.pdb
+D:\An 4\SEM 1\PSSC-Proiectarea sistemelor software complexe\PROIECT\ShoppingCart\ShoppingCart\ShoppingCart.Domain\obj\Debug\net6.0\ref\ShoppingCart.Domain.dll
